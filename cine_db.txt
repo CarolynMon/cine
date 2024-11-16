@@ -1,0 +1,20 @@
+Cine 64
+carrera
+0000
+12000
+Pascal
+comedia
++18
+pan, laura
+3:40 pm
+---
+Cine 64
+carrera
+0000
+12000
+AMor
+Suspenso
+todo el publico
+pao, laura
+10 am
+---
